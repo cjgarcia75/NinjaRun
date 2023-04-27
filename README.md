@@ -1,5 +1,7 @@
 # NinjaRun
 
+apk file available for download.
+
 This is an endless runner game currently in development and, at the moment, only built for android devices. 
 
-The apk file is available for download.
+I made all of the 3D models, textures, and UI elements.
